@@ -1,1 +1,2 @@
 hello this s the storage file doc .Now im updating this file
+from gitedit
